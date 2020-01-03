@@ -4,7 +4,7 @@ KeyCode manager is a password-manager utility program. With the increased use of
 
 ## Features
 
-* Created using Java and JFrame (for GUI)
+* Created using Java and JavaFX (for GUI)
 * Includes features like:
      * Program is password-protected to prevent eavesdropping and unauthorized access. (default username: nust, password: 1234)
      * Generating random password of any length and any combination (numeric, alphabetical, alphanumeric and alphanumeric+special characters)
